@@ -7,8 +7,8 @@
   - [Linkedin](https://linkedin.com/in/harshalgarg)  
 - 🖊 I have written a few blogs on [Medium](https://harshalgarg.medium.com/)
 
---
-Check out my ML projects (here)[https://github.com/gargharshal/gargharshal/kaggle]
+---
+Check out my ML projects [here](https://github.com/gargharshal/gargharshal/kaggle)
 
 
 <!---
