@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harshal Garg  
-- 🏢 I'm a working professional in IT in Infosys, India  
+- 🏢 I'm a working professional as an IT Professional in Infosys, India  
 - 👀 I’m interested in Data Science, Machine Learning and Deep Learning  
 - 📫 You can contact me via  
   - 📞 Phone - +91-9977816300  
